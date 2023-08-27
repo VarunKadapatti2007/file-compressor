@@ -1,2 +1,2 @@
 # file-compressor
-A different approach to file compression.
+A simple web application to reduce the size of files.
